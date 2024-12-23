@@ -26,13 +26,10 @@ const Info = () => {
                 // data-aos-delay="1000"
             >
                 <p>
-                    "Desenvolvedor Front-End em transição de carreira, com recente formação no programa 
-                    Oracle Next Education (ONE) como Desenvolvedor Front-End, Programador Web no 
-                    Instituto Federal do Rio Grande do Sul e cursando Análise e Desenvolvimento de 
-                    Sistemas pela FMU e Santander Tech+ (Front End) pela ADA Tech. Possuo forte conhecimento em HTML, 
-                    CSS, JavaScript, ReactJS e SASS, adquirido por meio de projetos acadêmicos. 
-                    Busco uma oportunidade para aplicar e expandir minhas habilidades em um ambiente 
-                    profissional.""
+                    "Desenvolvedor Front-End apaixonado por tecnologia e interfaces modernas, 
+                    com formação sólida e experiência acadêmica em HTML, CSS, JavaScript, ReactJS e SASS.
+                    Em transição de carreira, busco transformar desafios em soluções criativas, contribuindo 
+                    para projetos inovadores e experiências digitais impactantes."
                 </p>
             </div>
         </div>  

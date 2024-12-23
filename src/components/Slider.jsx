@@ -23,6 +23,7 @@ const Slider = () => {
             <div className="item"><img src="/skills/react.png" alt="logo reactjs" /></div>
             <div className="item"><img src="/skills/sass.png" alt="logo sass" /></div>
             <div className="item"><img src="/skills/sql.png" alt="logo mysql" /></div>
+            <div className="item"><img src="/skills/git.png" alt="logo git" /></div>
         </div>
     </section>
   )

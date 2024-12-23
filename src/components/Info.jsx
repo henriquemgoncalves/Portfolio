@@ -26,11 +26,13 @@ const Info = () => {
                 // data-aos-delay="1000"
             >
                 <p>
-                    "Atuar como Desenvolvedor Front-End, contribuindo com minha 
-                    paixão por tecnologia e minhas habilidades técnicas para criar 
-                    interfaces de usuário modernas e responsivas. Estou determinado 
-                    a crescer na área, aprender com novos desafios e colaborar em 
-                    projetos inovadores que proporcionem experiências digitais impactantes."
+                    "Desenvolvedor Front-End em transição de carreira, com recente formação no programa 
+                    Oracle Next Education (ONE) como Desenvolvedor Front-End, Programador Web no 
+                    Instituto Federal do Rio Grande do Sul e cursando Análise e Desenvolvimento de 
+                    Sistemas pela FMU e Santander Tech+ (Front End) pela ADA Tech. Possuo forte conhecimento em HTML, 
+                    CSS, JavaScript, ReactJS e SASS, adquirido por meio de projetos acadêmicos. 
+                    Busco uma oportunidade para aplicar e expandir minhas habilidades em um ambiente 
+                    profissional.""
                 </p>
             </div>
         </div>  

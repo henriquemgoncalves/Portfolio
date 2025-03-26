@@ -14,7 +14,7 @@ const RedeSocial = () => {
     <section id='social'>
         <div className="content">
             <a 
-              href="https://www.linkedin.com/in/henrique-madruga-gonçalves-044a072aa" 
+              href="https://www.linkedin.com/in/henrique-madruga-gonçalves-2a7b91357" 
               target='_blank'
               data-aos="fade-up"
               data-aos-duration="1000"

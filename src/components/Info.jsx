@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import { useEffect } from 'react'
 import '../styles/components/info.sass'
 import AOS from 'aos'
 
@@ -23,11 +23,10 @@ const Info = () => {
                 className="text"
                 data-aos="fade-left"
                 data-aos-duration="2000"
-                // data-aos-delay="1000"
             >
                 <p>
                     "Desenvolvedor Front-End apaixonado por tecnologia e interfaces modernas, 
-                    com formação sólida e experiência acadêmica em HTML, CSS, JavaScript, ReactJS e SASS.
+                    com formação sólida e experiência acadêmica em HTML, CSS, JavaScript, ReactJS, NextJS, Styled Components e SASS.
                     Em transição de carreira, busco transformar desafios em soluções criativas, contribuindo 
                     para projetos inovadores e experiências digitais impactantes."
                 </p>

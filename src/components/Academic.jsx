@@ -3,10 +3,9 @@ import '../styles/components/academic.sass'
 import AOS from 'aos'
 
 const cursos = [
-    {id: 1, img: "/img/ada.png", title: "ADA Tech + Santander", description: "Santander Tech+ - Front End"},
-    {id: 2, img: "/img/fmu.png", title: "FMU", description: "Análise e Desenvolvimento de Sistemas"},
-    {id: 3, img: "/img/ifrs.png", title: "IFRS - Instituto Federal Rio Grande do Sul", description: "Programador Web"},
-    {id: 4, img: "/img/one.png", title: "Alura + Oracle", description: "ONE - Oracle Next Education"},
+    {id: 1, img: "/img/fmu.png", title: "FMU", description: "Análise e Desenvolvimento de Sistemas"},
+    {id: 2, img: "/img/ifrs.png", title: "IFRS - Instituto Federal Rio Grande do Sul", description: "Programador Web"},
+    {id: 3, img: "/img/one.png", title: "Alura + Oracle", description: "ONE - Oracle Next Education"},
 ]
 
 const Academic = () => {

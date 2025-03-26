@@ -5,7 +5,25 @@ import { FaGithub } from "react-icons/fa6";
 
 const projectsData = [
     {
-      img: "/projects/hmg-fashion.png",
+      img: "/projects/argon.png",
+      name: "Argon Ar Condicionado",
+      link: "https://argon-beryl.vercel.app/",
+      repo: "https://github.com/henriquemgoncalves/Argon",
+    },
+    {
+      img: "/projects/doce-expresso.png",
+      name: "Doce Expresso",
+      link: "https://doce-expresso-ten.vercel.app/",
+      repo: "https://github.com/henriquemgoncalves/Doce_Expresso",
+    },
+    {
+      img: "/projects/krafters.png",
+      name: "Krafters",
+      link: "https://krafters-alpha.vercel.app/",
+      repo: "https://github.com/henriquemgoncalves/Krafters",
+    },
+    {
+      img: "/projects/fashion.png",
       name: "HMG Fashion Collection",
       link: "https://hmg-fashion-collection.vercel.app/",
       repo: "https://github.com/henriquemgoncalves/HMGFashion",
@@ -17,56 +35,32 @@ const projectsData = [
       repo: "https://github.com/henriquemgoncalves/HMG_Play-NetFlix-clone-",
     },
     {
-      img: "/projects/login.png",
+      img: "/projects/cadastro.png",
       name: "Login/Cadastro",
       link: "https://login-cadastro-eight.vercel.app/",
       repo: "https://github.com/henriquemgoncalves/Login-Cadastro",
     },
     {
-      img: "/projects/mario-game.png",
-      name: "Mario Game",
-      link: "https://mario-bros-game-two.vercel.app/",
-      repo: "https://github.com/henriquemgoncalves/MarioBros_game",
-    },
-    {
-      img: "/projects/numero.png",
-      name: "Numero Secreto",
-      link: "https://secret-number-taupe.vercel.app/",
-      repo: "https://github.com/henriquemgoncalves/secret-number",
-    },
-    {
-      img: "/projects/odonto.png",
+      img: "/projects/uscs.png",
       name: "Odontologia",
       link: "https://projeto-uscs.vercel.app/",
       repo: "https://github.com/henriquemgoncalves/projeto__uscs",
     },
     {
-      img: "/projects/petshow.png",
-      name: "PetShow",
-      link: "https://pet-show-mu.vercel.app/",
-      repo: "https://github.com/henriquemgoncalves/pet-show",
-    },
-    {
-      img: "/projects/rick_and_morty.png",
-      name: "Rick and Morty",
-      link: "https://rick-and-morty-nine-green.vercel.app/",
-      repo: "https://github.com/henriquemgoncalves/Rick_And_Morty",
-    },
-    {
-      img: "/projects/todo.png",
+      img: "/projects/todo-app.png",
       name: "To Do App",
       link: "https://todo-app-black-six-11.vercel.app/",
       repo: "https://github.com/henriquemgoncalves/Todo",
     },
     {
-      img: "/projects/travel.png",
+      img: "/projects/travel-website.png",
       name: "Travel Website",
       link: "https://travel-website-woad-beta.vercel.app/",
       repo: "https://github.com/henriquemgoncalves/website-travel",
       
     },
     {
-      img: "/projects/tripquest.png",
+      img: "/projects/trip.png",
       name: "TripQuest",
       link: "https://tourist-web.vercel.app/",
       repo: "https://github.com/henriquemgoncalves/tourist_react-sass",
